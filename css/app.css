@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+
+#home {
+	background: #000;
+}
+
+#home .news {
+	background-color:rgb(223, 150, 71);
+	text-shadow: none;
+}
+#home .entertainment {
+	background-color:rgb(160, 62, 207);
+	text-shadow: none;
+}
+#home .arts-and-culture {
+	background-color:rgb(144, 177, 64);
+	text-shadow: none;
+}
+#home .sports {
+	background-color:rgb(113, 169, 218);
+	text-shadow: none;
+}
+#home .opinions {
+	background-color:rgb(216, 104, 163);
+	text-shadow: none;
+}
+
+.ui-page {
+    margin-top:20px;
+}
+
+.ui-advertisment{
+	text-align: center; 
+	background: none;
+	border: none;
+}
